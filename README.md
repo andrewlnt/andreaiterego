@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, videogames and books!
 - 🌱 I’m currently learning JAVASCRIPT, related libraries and REACT..
 - 💞️ I’m looking to collaborate on JS progects
-- 📫 How to reach me? Just mail me at a.lentini@iterego.it
+- 📫 How to reach me? Just mail me at a.lentini@idratechnology.it
 
 <!---
 andreaiterego/andreaiterego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
